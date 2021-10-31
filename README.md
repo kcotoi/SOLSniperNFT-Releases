@@ -4,6 +4,7 @@ S◎LSniperNFT
 
 ![solsnipernft png](images/solsnipernft.png)
 
+You can buy me a beer: LMnqhR1Fof6qf6uU971AmhaDQQSveJUENMUnwmu167x 😆 🍻 (Sol address)
 ## Table of Contents
 
 - [Features](#features)
