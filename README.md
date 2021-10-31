@@ -12,6 +12,7 @@ You can buy me a beer: LMnqhR1Fof6qf6uU971AmhaDQQSveJUENMUnwmu167x 😆 🍻 (So
 - [How to install](#how-to-install)
 - [Supported Marketplaces](#supported-marketplaces)
 - [Supported Ranking Sites](#supported-ranking-sites)
+- [Supported Browsers](#supported-browsers)
 - [Issues](#issues)
 - [Future developments](#future-developments)
 ## Features
@@ -59,6 +60,15 @@ You can buy me a beer: LMnqhR1Fof6qf6uU971AmhaDQQSveJUENMUnwmu167x 😆 🍻 (So
 | ------------ | ------ |
 |   Howrare    |   ✅   |
 |   Moonrank   |   ✅   |
+
+## Supported Browsers
+
+| Browser           | Status |
+| ----------------- | ------ |
+| Chrome            |   ✅   |
+| Mozilla Firefox   |   ✅   |
+| Brave             |   ✅   |
+| Microsoft Edge    |   ✅   |
 
 ## Issues
 
