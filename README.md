@@ -40,7 +40,9 @@ S◎LSniperNFT
 
 ## How to install
 
-- Download the Release zip file , unzip it, and load the unziped folder into your browser.
+- Download the Release 1.2 zip file , unzip it, and load the unziped folder into your browser.
+- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/download/release1.2/solsnipernft-v0.1.2-production.zip
+">Link here</a>
 
 ## Supported Marketplaces
 
