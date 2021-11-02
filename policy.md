@@ -9,8 +9,8 @@
 <li>We don’t serve any tracking or identifying cookies.</li>
 <li>We don't disclose or sell your contact information.
     When you contact us via email or via social media, we’ll use your contact information to respond to you. We won’t sell or share this info with anyone else.</li>
-<li>StartS◎LSniperNFT Extension complies with the GDPR
-    We are located in the EU, and we fully comply with applicable privacy laws and regulations of the EU, including the General Data Protection Regulation (GDPR). In accordance with the General Data Protection Regulation, your data will remain strictly confidential. We never sell, trade, or transfer your data to third parties for any reason.</li>
+<li>StartS◎LSniperNFT complies with the GDPR
+    We are located in the EU, and we fully comply with applicable privacy laws and regulations of the EU, including the General Data Protection Regulation (GDPR).</li>
 <li>Changes and Updates
     We reserve the right to amend this Privacy Policy at any time. If we do this, we will post the amended Privacy Policy. Your continued use of the Browser Extension after any such changes constitutes your acceptance of the new Privacy Policy. If you do not agree to this Privacy Policy or any future Privacy Policy, do not use (or continue to use) the Browser Extension.
 </li>
