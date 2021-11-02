@@ -18,18 +18,17 @@ You can buy me a beer: LMnqhR1Fof6qf6uU971AmhaDQQSveJUENMUnwmu167x 😆 🍻 (So
 ## Features
 
 - Show ranks from howrare and moonrank on supported marketplaces.
-    - Howrare supports has multiple ways of calculating ranking but we show only the following 3 types:
+    - Howrare has multiple ways of calculating ranking but we show only the following 3 types:
         - HR - this is howrare own ranking system more info  <a href="https://howrare.is/faq/#rarity_calculation">here </a>
         - ST - Statistical ranking more info <a href="https://howrare.is/faq/#statistical_rarity">here</a>
-        - NT - Normilized traits more info <a href="https://howrare.is/faq/#trait_normalization">here</a>
+        - NT - Normalized traits more info <a href="https://howrare.is/faq/#trait_normalization">here</a>
     - Moonrank supports one type of ranking and this is calculated using statistical ranking system.
 ## Extension Settings
 
 - The extension pop-up allows you to :
     - Enable/Disable ranks to be shown.
-        - <b>NOTE: With current version you have to refresh the main page after you change one of these settings.</b>
         ![Settings png](images/Settings.png)
-
+    - Enter your own thresholds for colouring ranks.
     - Enter your own mappings. On mappings page you can enter your own mappings to make sure that we
     find the rankings. The names can be found at the end of the urls:
         - For example if we want to map The Tower collection on Magic Eden with rankings from Moonrank.
