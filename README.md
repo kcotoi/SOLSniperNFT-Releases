@@ -97,12 +97,16 @@ You can buy me a beer: LMnqhR1Fof6qf6uU971AmhaDQQSveJUENMUnwmu167x 😆 🍻 (So
 - 1.0 Initial Version
 
 - 1.2 Release info:
+    - Fixed bugs:
+        - Issue with extension icon.
+
+- 1.3 Release info:
     - New changes/ added features:
         - Thresholds - now you can set your own thresholds for colorouring and choose your own colors.
         - When you enable/disable ranks the changes are reflected immediatly in the UI.
         - Added mappings for collections that can be seen on howrare and don't follow a predictable pattern
         - Removed to column for Moonrank in Mappings page as this is not needed from now on. 
     - Fixed bugs:
-    	a. Issue with magiceden when you switch to Activity tab and come back the ranks were not shown.
-    	b. Issue with magiceden when you go into detail page and come back the ranks were not shown.
+    	- Issue with magiceden when you switch to Activity tab and come back the ranks were not shown.
+    	- Issue with magiceden when you go into detail page and come back the ranks were not shown.
 
