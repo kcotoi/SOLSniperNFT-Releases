@@ -77,13 +77,9 @@ You can buy me a beer: LMnqhR1Fof6qf6uU971AmhaDQQSveJUENMUnwmu167x 😆 🍻 (So
 
 - Improve the UI. Currently the ranks are not shown very nice so this will be improved.
 
-- When enabling/disabling ranks implement so that the change is reflected immediatly in the UI.
-
 - Inform user that the ranking has not be found and should check if mapping is needed.
 
-- Add option to set your own limits for coloring
-
-- Add more mappings to the application
+- Add more mappings to the application (This is something that will be done weekly)
 
 - Refactor code
 
