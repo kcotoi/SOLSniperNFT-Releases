@@ -1,7 +1,6 @@
 <div align="center">
   <br>
   <img alt="S◎LSniperNFT" src="https://raw.githubusercontent.com/kcotoi/SOLSniperNFT-Releases/master/images/SolSniperNFTLogo.png" width="300px">
-  <h1> S◎LSniperNFT </h1>
   <strong>Easily snipe best ranked NFTs!</strong>
 </div>
 <br>
