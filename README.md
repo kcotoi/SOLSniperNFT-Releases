@@ -31,7 +31,7 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on you fa
     - NT - Normalized traits more info <a href="https://howrare.is/faq/#trait_normalization">here</a>
   - Moonrank supports one type of ranking and this is calculated using statistical ranking system.
 
-### 📖 Extension Settings
+## 📖 Extension Settings
 
 - The extension pop-up allows you to :
   - Enable/Disable ranks to be shown.
