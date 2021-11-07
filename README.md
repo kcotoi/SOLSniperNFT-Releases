@@ -51,10 +51,14 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on you fa
 
 - Get it from <a href="https://addons.mozilla.org/en-US/firefox/addon/solsnipernft/"> here</a>
 
-## 💻 How to install on Chrome, Brave, Edge, Opera
+## 💻 How to install on Chrome
 
-- Download the Release 1.3 zip file , unzip it, and load the unziped folder into your browser.
-- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/download/Release1.3/solsnipernft-v0.1.3-production.zip">Link here</a>
+- Get it from <a href="https://chrome.google.com/webstore/detail/s%E2%97%8Elsnipernft-snipe-best-r/ogefhfdeljjlmhmbipoimkggolpeghan"> here</a>
+
+## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera
+
+- Download the Release 1.4 zip file , unzip it, and load the unziped folder into your browser.
+- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/download/release1.4/solsnipernft-v0.1.4-production.zip">Link here</a>
 
 ## 🏦 Supported Marketplaces
 
