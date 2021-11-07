@@ -121,3 +121,12 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on you fa
     - Issue with magiceden when you switch to Activity tab and come back the ranks were not shown.
     - Issue with magiceden when you go into detail page and come back the ranks were not shown.
 
+- 1.4 Release info:
+  - Fixed bugs:
+     - Issue with getting collection name when we have no mappings for a marketplace.
+     - Issue with alphart when getting collection name while filtering.
+  - Improved the performance of extension.
+    	- Now we save the ranks for the NFTs you see in the local storage so when you visit it next time it will be shown faster. Also we don't make a lot of requests to ranking sites anymore.
+  - Improved the layout of rankings. (Still some improvements to be done)
+    - Made the ranks to be links that will redirect you to the ranking page.
+      - NOTE: On Alpha.art you have to righ click oon the rank and click on open in new tab.
