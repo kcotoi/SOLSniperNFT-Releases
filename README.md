@@ -13,8 +13,8 @@
   <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases">
     <img src="https://img.shields.io/github/v/release/kcotoi/SOLSniperNFT-Releases.svg?style=flat" alt="GitHub Release">
   </a>
-  <a href="https://twitter.com/KC0T0I">
-    <img src="https://img.shields.io/twitter/follow/KC0T0I?label=Follow&style=social" alt="Twitter">
+  <a href="https://twitter.com/SOLSniperNFT">
+    <img src="https://img.shields.io/twitter/follow/SOLSniperNFT?label=Follow&style=social" alt="Twitter">
   </a>
 </p>
 
@@ -92,15 +92,9 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on you fa
 
 ## 📈 Future developments
 
-- Improve the UI. Currently the ranks are not shown very nice so this will be improved.
-
 - Inform user that the ranking has not be found and should check if mapping is needed.
 
 - Add more mappings to the application (This is something that will be done weekly)
-
-- Refactor code
-
-- Improve performance of the extension
 
 - Add other marketplaces and ranking sites
 
