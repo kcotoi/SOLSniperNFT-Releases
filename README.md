@@ -18,7 +18,7 @@
   </a>
 </p>
 
-S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on you favorite Marketplaces.
+S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your favorite Marketplaces.
 
 ![solsnipernft png](images/solsnipernft.png)
 
@@ -39,12 +39,12 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on you fa
   - Enter your own thresholds and colors for colouring ranks.
   - Enter your own mappings. On mappings page you can enter your own mappings to make sure that we
     find the rankings. The names can be found at the end of the urls:
-    - For example if we want to map The Tower collection on Magic Eden with rankings from Moonrank.
-      - Magiceden link : https://magiceden.io/marketplace/the_tower
-      - Moonrank link : https://moonrank.app/collection/towerdao
+    - For example if we want to map Solana Monkey Business collection on Magic Eden with rankings from Howrare, you will have the following:
+      - Magiceden link : https://www.magiceden.io/marketplace/solana_monkey_business
+      - Moonrank link : https://howrare.is/smb
     - We will have to set in the popup the following:
-      - Marketplace Collection ID : the_tower
-      - Moonrank Collection ID : towerdao
+      - Marketplace Collection ID : solana_monkey_businessr
+      - Moonrank Collection ID : smb
         ![Mappings png](images/Mappings.png)
 
 ## 💻 How to install on Firefox
