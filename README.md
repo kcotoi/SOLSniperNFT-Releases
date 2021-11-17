@@ -74,7 +74,6 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 | ------------ | ------ |
 | Howrare      | ✅     |
 | Moonrank     | ✅     |
-| Soltracker   | ⏳     |
 
 ## 💻 Supported Browsers
 
