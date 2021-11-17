@@ -141,11 +141,14 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
           - Now you are able to open the popup in a new tab and you will be able to insert multiple mappings.
     	- Fixed issues with Naked meerkat and Meerkat Millionaire collection when I get rank from howrare. 
           - Now also the NFTs with leading zero  in  the number will be fetched.
+      - Fixed issue with clicking on ranks for alpahart, now you can directly click on them and it will get you to the ranking page directly.
    -  New changes/ added features:
       - Added new marketplaces:
     		  - Digitaleyes.market
     		  - Exchange.art
     	- Removed statistical rating and normalized traits from howrare (ST, NT) based on user feedback.
+   - Added special mapping for Turtles collection. Now you can see ranks from howrare for turtles too.
+     NOTE: Some turtles don't have ranks on howrare and moonrank (Boring Turtle, Zapi), if you find them please let me know and i will add them.
    - Added button in the popup to open it in a new page
    - Clear Cached Ranks Page:
      - Added option to clear the rankings. 
