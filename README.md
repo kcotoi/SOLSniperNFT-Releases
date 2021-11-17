@@ -25,18 +25,18 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 ## 🔥 Features
 
 - Show ranks from howrare and moonrank on supported marketplaces.
-  - Howrare has multiple ways of calculating ranking but we show only the following 3 types:
-    - HR - this is howrare own ranking system more info <a href="https://howrare.is/faq/#rarity_calculation">here </a>
-    - ST - Statistical ranking more info <a href="https://howrare.is/faq/#statistical_rarity">here</a>
-    - NT - Normalized traits more info <a href="https://howrare.is/faq/#trait_normalization">here</a>
+  - Howrare own ranking system more info <a href="https://howrare.is/faq/#rarity_calculation">here </a>
   - Moonrank supports one type of ranking and this is calculated using statistical ranking system.
-
 ## 📖 Extension Settings
 
 - The extension pop-up allows you to :
   - Enable/Disable ranks to be shown.
     ![Settings png](images/Settings.png)
   - Enter your own thresholds and colors for colouring ranks.
+  - Open the popup in a new tab. 
+  - Clear Cached Ranks Page:
+    - Added option to clear the rankings.
+    - Now in the popup you can go to the Ranks page and delete the collection you don't see that often or you added a new mapping for it and you want to refresh the ranks on the next page load.
   - Enter your own mappings. On mappings page you can enter your own mappings to make sure that we
     find the rankings. The names can be found at the end of the urls:
     - For example if we want to map Solana Monkey Business collection on Magic Eden with rankings from Howrare, you will have the following:
@@ -55,18 +55,21 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 
 - Get it from <a href="https://chrome.google.com/webstore/detail/s%E2%97%8Elsnipernft-snipe-best-r/ogefhfdeljjlmhmbipoimkggolpeghan"> here</a>
 
-## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera
+## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera V1.5 (NEW)
 
-- Download the Release 1.4 zip file , unzip it, and load the unziped folder into your browser.
-- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/download/release1.4/solsnipernft-v0.1.4-production.zip">Link here</a>
+- Download the Release 1.5 zip file , unzip it, and load the unziped folder into your browser.
+- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/download/Release1.5/solsnipernft-v0.1.5-production.zip">Link here</a>
 
 ## 🏦 Supported Marketplaces
 
-| Marketplace | Status |
-| ----------- | ------ |
-| MagicEden   | ✅     |
-| Alpha.art   | ✅     |
-| Solanart    | ✅     |
+| Marketplace       | Status |
+| ------------------| ------ |
+| MagicEden.io      | ✅     |
+| Alpha.art         | ✅     |
+| Solanart.io       | ✅     |
+| Exchange.art      | ✅     |
+| DigitalEyes.market| ✅     |
+
 
 ## 📊 Supported Ranking Sites
 
