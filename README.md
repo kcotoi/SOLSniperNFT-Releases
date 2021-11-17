@@ -31,12 +31,15 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 
 - The extension pop-up allows you to :
   - Enable/Disable ranks to be shown.
-    ![Settings png](images/Settings.png)
   - Enter your own thresholds and colors for colouring ranks.
+    ![Settings png](images/Settings.png)
+
   - Open the popup in a new tab. 
   - Clear Cached Ranks Page:
     - Added option to clear the rankings.
     - Now in the popup you can go to the Ranks page and delete the collection you don't see that often or you added a new mapping for it and you want to refresh the ranks on the next page load.
+    ![Ranks png](images/Ranks.png)
+
   - Enter your own mappings. On mappings page you can enter your own mappings to make sure that we
     find the rankings. The names can be found at the end of the urls:
     - For example if we want to map Solana Monkey Business collection on Magic Eden with rankings from Howrare, you will have the following:
