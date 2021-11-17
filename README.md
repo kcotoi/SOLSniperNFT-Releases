@@ -131,11 +131,11 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 
 - 1.5 Release info:
     - Fixed bugs:
-      - Issue with adding new ranks when collection is not initialized.
+      - Issue with adding new ranks when collection it's not initialized.
     	- Issue with setting multiple mappings.
           - Now you are able to open the popup in a new tab and you will be able to insert multiple mappings.
     	- Fixed issues with Naked meerkat and Meerkat Millionaire collection when I get rank from howrare. 
-          - Now also the NFTs with leading zero  in  the numbeer will be fetched.
+          - Now also the NFTs with leading zero  in  the number will be fetched.
    -  New changes/ added features:
       - Added new marketplaces:
     		  - Digitaleyes.market
