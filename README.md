@@ -171,3 +171,8 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
           But no worries the extension will try to get the rankings again after the temporary ban is lifted, so don't worry and just wait a few and the rankings will show up.
 
 NOTE: To ensure the best experience I advise you to scroll slowly to avoid sending too many requests in a short amount of time.
+
+- 1.6 Release info:
+
+- Fixed bugs:
+  - Issue with solanart when you are in extended view mode. The ranks are shown now in all view modes.
