@@ -175,4 +175,18 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 - 1.6 Release info:
 
 - Fixed bugs:
+
   - Issue with solanart when you are in extended view mode. The ranks are shown now in all view modes.
+  - Howrare changed their interface so code changes were needed to get rankings from new interface.
+  - Issue with Moonrank ranks when filtering for Tower collection.
+  - Added Solslugs as exception because howrare does not use leading zeros.
+  - Implemented a request queue so that we don't hit howrare request limit.
+    The request will be delayed so that we don't make more than 60 request per minute.
+    They have said that they will release an API soon, will see then if it will be possible to improve this.
+
+- Known issues:
+- Sometimes for solanart moonrank hourglass can remain spinning for random NFTs,
+  this only happens for a few and should get it if you refresh the page.
+- Exchange art is buggy and requires some refreshes to be done when it is ranking are blocked loading.
+
+Will be working in the next days to fix these known bugs.
