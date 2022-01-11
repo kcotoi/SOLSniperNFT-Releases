@@ -187,6 +187,24 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 - Known issues:
 - Sometimes for solanart moonrank hourglass can remain spinning for random NFTs,
   this only happens for a few and should get it if you refresh the page.
-- Exchange art is buggy and requires some refreshes to be done when it is ranking are blocked loading.
+- Exchange art is buggy and requires some refreshes to be done when rankings are blocked loading.
 
-Will be working in the next days to fix these known bugs.
+
+- 1.7 Release info:
+
+- Fixed bugs:
+
+  -Fixed issue with saving the mappings and thresholds to local storage. 
+  -Fixed small issue with alphart footer and searching
+  -Fixed issue with not checking again for moonrank rankings, if first time we check the ranks are not found.
+   Now the extension will check again if more than 5 minutes have past since last time we checked.
+  -Fixed issue for solanart when moonrank hourglass can remain spinning for random NFTs
+
+- Changes:
+
+  -Switched to Howrare API.
+
+- Known issues:
+
+  -Exchange art is buggy and requires some refreshes to be done when rankings are blocked loading.
+
