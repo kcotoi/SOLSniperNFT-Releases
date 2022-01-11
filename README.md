@@ -206,5 +206,5 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 
 - Known issues:
 
-  -Exchange art is buggy and requires some refreshes to be done when rankings are blocked loading.
+  -Exchange art is buggy and i removed it for now. Will work on it and try to bring it back asap.
 
