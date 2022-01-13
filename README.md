@@ -203,6 +203,8 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 - Changes:
 
   -Switched to Howrare API.
+  -Added Quick buy button for MagicEden and Solanart.
+  -Fixed some layout and performance issues with Solanart.
 
 - Known issues:
 
