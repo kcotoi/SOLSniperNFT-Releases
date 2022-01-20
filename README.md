@@ -220,6 +220,7 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
   -Completely switched to Howrare API and improved performance from previous release.
   -Fixed some layout issue with Quick buy button.
   -Fixed small issue with not updating the colour of ranks when we change the threshold.
+  -Added size in MB on Ranks page so you can see how much space ranks occupy on your system.
 
 
 - Known issues:
