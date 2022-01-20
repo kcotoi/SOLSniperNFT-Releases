@@ -27,6 +27,8 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 - Show ranks from howrare and moonrank on supported marketplaces.
   - Howrare own ranking system more info <a href="https://howrare.is/faq/#rarity_calculation">here </a>
   - Moonrank supports one type of ranking and this is calculated using statistical ranking system.
+- Quick Buy button for Magiceden and Solanart Marketplaces.
+  ![QuickBuy png](images/QuickBuy.png)
 ## 📖 Extension Settings
 
 - The extension pop-up allows you to :
@@ -58,10 +60,10 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 
 - Get it from <a href="https://chrome.google.com/webstore/detail/s%E2%97%8Elsnipernft-snipe-best-r/ogefhfdeljjlmhmbipoimkggolpeghan"> here</a>
 
-## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera V1.5 (NEW)
+## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera V1.8 (NEW)
 
-- Download the Release 1.5 zip file , unzip it, and load the unziped folder into your browser.
-- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/download/Release1.5/solsnipernft-v0.1.5-production.zip">Link here</a>
+- Download the Release 1.8 zip file , unzip it, and load the unziped folder into your browser.
+- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/download/Release1.8/solsnipernft-v0.1.8-production.zip">Link here</a>
 
 ## 🏦 Supported Marketplaces
 
@@ -96,8 +98,6 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 - Please let me know if you find any.
 
 ## 📈 Future developments
-
-- Inform user that the ranking has not be found and should check if mapping is needed.
 
 - Add more mappings to the application (This is something that will be done weekly)
 
@@ -209,4 +209,24 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 - Known issues:
 
   -Exchange art is buggy and i removed it for now. Will work on it and try to bring it back asap.
+
+
+- 1.8 Release info:
+
+- Fixed bugs:
+
+  -Fixed issues with exchange.art. Now the rankings should be shown again.
+  -Fixed issues on Firefox with loading ranks, prvious version was buggy.
+  -Completely switched to Howrare API and improved performance from previous release.
+  -Fixed some layout issue with Quick buy button.
+  -Fixed small issue with not updating the colour of ranks when we change the threshold.
+
+
+- Known issues:
+
+  -Exchange art on Firefox fails sometimes for Howrare rankings. Will have to check why.
+  -Collections : 
+   CryptoCribs, Solsteads Surreal Estate are currently not working with this extension. 
+   Reason for this is that a special mapping will be required for it to work. Will be looking into it and see how I can integrate these too.
+
 
