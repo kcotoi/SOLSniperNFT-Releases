@@ -216,7 +216,7 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 - Fixed bugs:
 
   -Fixed issues with exchange.art. Now the rankings should be shown again.
-  -Fixed issues on Firefox with loading ranks, prvious version was buggy.
+  -Fixed issues on Firefox with loading ranks, previous version was buggy.
   -Completely switched to Howrare API and improved performance from previous release.
   -Fixed some layout issue with Quick buy button.
   -Fixed small issue with not updating the colour of ranks when we change the threshold.
