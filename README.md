@@ -172,6 +172,9 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 
 NOTE: To ensure the best experience I advise you to scroll slowly to avoid sending too many requests in a short amount of time.
 
+
+
+
 - 1.6 Release info:
 
 - Fixed bugs:
@@ -188,6 +191,8 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 - Sometimes for solanart moonrank hourglass can remain spinning for random NFTs,
   this only happens for a few and should get it if you refresh the page.
 - Exchange art is buggy and requires some refreshes to be done when rankings are blocked loading.
+
+
 
 
 - 1.7 Release info:
@@ -209,6 +214,8 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 - Known issues:
 
   -Exchange art is buggy and i removed it for now. Will work on it and try to bring it back asap.
+
+
 
 
 - 1.8 Release info:
