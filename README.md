@@ -32,6 +32,7 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 ## 📖 Extension Settings
 
 - The extension pop-up allows you to :
+  - Enable/Disable the Quick buy button.
   - Enable/Disable ranks to be shown.
   - Enter your own thresholds and colors for colouring ranks.
     ![Settings png](images/Settings.png)
@@ -60,21 +61,24 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 
 - Get it from <a href="https://chrome.google.com/webstore/detail/s%E2%97%8Elsnipernft-snipe-best-r/ogefhfdeljjlmhmbipoimkggolpeghan"> here</a>
 
-## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera V1.8 (NEW)
+Currently unpublished until a new version will be approved. Currently it is pending review.
 
-- Download the Release 1.8 zip file , unzip it, and load the unziped folder into your browser.
-- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/download/Release1.8/solsnipernft-v0.1.8-production.zip">Link here</a>
+## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera V2.0 (NEW)
+
+- Download the Release 2.0 zip file , unzip it, and load the unziped folder into your browser.
+- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/tag/release2.0
+">Link here</a>
 
 ## 🏦 Supported Marketplaces
 
-| Marketplace       | Status |
-| ------------------| ------ |
-| MagicEden.io      | ✅     |
-| Alpha.art         | ✅     |
-| Solanart.io       | ✅     |
-| Exchange.art      | ✅     |
-| DigitalEyes.market| ✅     |
-
+| Marketplace        | Status |
+| -------------------| ------ |
+| MagicEden.io       | ✅     |
+| Alpha.art          | ✅     |
+| Solanart.io        | ✅     |
+| Exchange.art       | ✅     |
+| DigitalEyes.market | ✅     |
+| Raydium Marketplace| ✅     |
 
 ## 📊 Supported Ranking Sites
 
@@ -85,13 +89,13 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 
 ## 💻 Supported Browsers
 
-| Browser         | Status |
-| --------------- | ------ |
-| Chrome          | ✅     |
-| Mozilla Firefox | ✅     |
-| Brave           | ✅     |
-| Microsoft Edge  | ✅     |
-| Opera           | ✅     |
+| Browser         | Status | Working Version |
+| --------------- | ------ | --------------  |
+| Chrome          | ✅     | 2.0             | 
+| Mozilla Firefox | ✅     | 1.8.1           |
+| Brave           | ✅     | 2.0             |
+| Microsoft Edge  | ✅     | 2.0             |
+| Opera           | ✅     | 2.0             |
 
 ## 🛎️ Issues
 
@@ -245,7 +249,12 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 
 Still using Manifest V2 until here. 
 
-Manifest V3 from here on for Chrome, Brave, Edge.
+
+
+
+
+
+Manifest V3 from here on for Chrome, Brave, Edge, Opera.
 
 - 2.0 Release info:
 
@@ -266,7 +275,6 @@ Manifest V3 from here on for Chrome, Brave, Edge.
     With previous approach there were issues with quickly recognising data mismatch, this caused an issue with loading ranks and it could
     have taken up to 5 minutes to recognise it and fetch the data again if necessary.
   - Added extra safety measures to make sure that Quick Buy is only triggered when it should.
-    This feature is still in beta phase so please use with caution.
 
 - Known issues:
   - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this
