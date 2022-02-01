@@ -238,3 +238,7 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
    Reason for this is that a special mapping will be required for it to work. Will be looking into it and see how I can integrate these too.
 
 
+- 1.8.1 Release info:
+
+- Features:
+  - Added option in Pop up Settings to disable or enable Quick Buy button.
