@@ -253,6 +253,8 @@ Manifest V3 from here on.
 - Features:
 
   - Added option in Pop up Settings to disable or enable Quick Buy button.
+  - Added raydium Marketplace, now you can also see rankings there. For this the mapping from Magiceden will be taken
+    so no need for additional mapping.
 
 - Changes:
 
