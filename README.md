@@ -270,4 +270,4 @@ Manifest V3 from here on.
   - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this
     extension there.
 
-Will work on implementing these changes for Manigest V2 so all this will also be available there too.
+Will work on implementing these changes for Manifest V2 so all this will also be available there too.
