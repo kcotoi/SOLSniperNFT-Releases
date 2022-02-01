@@ -245,15 +245,14 @@ NOTE: To ensure the best experience I advise you to scroll slowly to avoid sendi
 
 Still using Manifest V2 until here. 
 
-Manifest V3 from here on.
-
+Manifest V3 from here on for Chrome, Brave, Edge.
 
 - 2.0 Release info:
 
 - Features:
 
   - Added option in Pop up Settings to disable or enable Quick Buy button.
-  - Added raydium Marketplace, now you can also see rankings there. For this the mapping from Magiceden will be taken
+  - Added Raydium Marketplace, now you can also see rankings there. For this the mapping from Magiceden will be taken
     so no need for additional mapping.
 
 - Changes:
@@ -266,7 +265,8 @@ Manifest V3 from here on.
     One of the reasons is the storage limitations, not a lot of data is allowed to be stored in a single item.
     With previous approach there were issues with quickly recognising data mismatch, this caused an issue with loading ranks and it could
     have taken up to 5 minutes to recognise it and fetch the data again if necessary.
-  - Added extra safety measures to
+  - Added extra safety measures to make sure that Quick Buy is only triggered when it should.
+    This feature is still in beta phase so please use with caution.
 
 - Known issues:
   - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this
