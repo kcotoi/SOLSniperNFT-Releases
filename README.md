@@ -251,20 +251,23 @@ Manifest V3 from here on.
 - 2.0 Release info:
 
 - Features:
+
   - Added option in Pop up Settings to disable or enable Quick Buy button.
 
 - Changes:
-  - Switched to using Manifest V3 and Service Workers. This should help have speedier reviews from chrome and also 
+
+  - Switched to using Manifest V3 and Service Workers. This should help have speedier reviews from chrome and also
     improve the performance.
   - Reduced the host permission to specific domains see manifest.json
-  - Improved the way the extension stores the data, still work in progress. 
-  - Got rid of using localstorage so now all the data is stored in the indexedDB. 
-    One of the reasons is the storage limitations, not a lot of data is allowed to be stored there in a single item. 
-    With previous approach there were issues with quickly recognizing data mismatch, this caused an issue with loading ranks and it could have taken up to 5 minutes to recognize it and fetch the data again if necessary.
+  - Improved the way the extension stores the data, still work in progress.
+  - Got rid of using localstorage so now all the data is stored in the indexedDB.
+    One of the reasons is the storage limitations, not a lot of data is allowed to be stored in a single item.
+    With previous approach there were issues with quickly recognising data mismatch, this caused an issue with loading ranks and it could
+    have taken up to 5 minutes to recognise it and fetch the data again if necessary.
+  - Added extra safety measures to
 
-- Known issues: 
+- Known issues:
   - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this
-    extension there. 
+    extension there.
 
 Will work on implementing these changes for Manigest V2 so all this will also be available there too.
-  
