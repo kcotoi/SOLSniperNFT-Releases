@@ -268,7 +268,6 @@ Manifest V3 from here on for Chrome, Brave, Edge, Opera.
 
   - Switched to using Manifest V3 and Service Workers. This should help have speedier reviews from chrome and also
     improve the performance.
-  - Reduced the host permission to specific domains see manifest.json
   - Improved the way the extension stores the data, still work in progress.
   - Got rid of using localstorage so now all the data is stored in the indexedDB.
     One of the reasons is the storage limitations, not a lot of data is allowed to be stored in a single item.
@@ -279,5 +278,3 @@ Manifest V3 from here on for Chrome, Brave, Edge, Opera.
 - Known issues:
   - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this
     extension there.
-
-Will work on implementing these changes for Manifest V2 so all this will also be available there too.
