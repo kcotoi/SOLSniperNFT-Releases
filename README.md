@@ -92,7 +92,7 @@ Currently unpublished until a new version will be approved. Currently it is pend
 | Browser         | Status | Working Version |
 | --------------- | ------ | --------------  |
 | Chrome          | ✅     | 2.0             | 
-| Mozilla Firefox | ✅     | 1.8.1           |
+| Mozilla Firefox | ✅     | 2.0             |
 | Brave           | ✅     | 2.0             |
 | Microsoft Edge  | ✅     | 2.0             |
 | Opera           | ✅     | 2.0             |
@@ -274,6 +274,8 @@ Manifest V3 from here on for Chrome, Brave, Edge, Opera.
     With previous approach there were issues with quickly recognising data mismatch, this caused an issue with loading ranks and it could
     have taken up to 5 minutes to recognise it and fetch the data again if necessary.
   - Added extra safety measures to make sure that Quick Buy is only triggered when it should.
+  - Implemented also cleanup of the old stored data. This should prevent issue with saved settings.
+
 
 - Known issues:
   - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this
