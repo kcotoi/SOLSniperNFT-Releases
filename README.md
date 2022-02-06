@@ -27,7 +27,7 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 - Show ranks from howrare and moonrank on supported marketplaces.
   - Howrare own ranking system more info <a href="https://howrare.is/faq/#rarity_calculation">here </a>
   - Moonrank supports one type of ranking and this is calculated using statistical ranking system.
-- Quick Buy button for Magiceden and Solanart Marketplaces.
+- Quick Buy button for Magiceden, Raydium and Solanart Marketplaces.
   ![QuickBuy png](images/QuickBuy.png)
 ## 📖 Extension Settings
 
