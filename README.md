@@ -74,9 +74,9 @@ Currently unpublished until a new version will be approved. Currently it is pend
 | Marketplace        | Status |
 | -------------------| ------ |
 | MagicEden.io       | ✅     |
+| Opensea.io         | ✅     |
 | Alpha.art          | ✅     |
 | Solanart.io        | ✅     |
-| Exchange.art       | ✅     |
 | DigitalEyes.market | ✅     |
 | Raydium Marketplace| ✅     |
 
@@ -91,19 +91,18 @@ Currently unpublished until a new version will be approved. Currently it is pend
 
 | Browser         | Status | Working Version |
 | --------------- | ------ | --------------  |
-| Chrome          | ✅     | 2.0             | 
-| Mozilla Firefox | ✅     | 2.0             |
-| Brave           | ✅     | 2.0             |
-| Microsoft Edge  | ✅     | 2.0             |
-| Opera           | ✅     | 2.0             |
+| Chrome          | ✅     | 2.0             |
+| Mozilla Firefox | ✅     | 2.4.1           |
+| Brave           | ✅     | 2.4.1           |
+| Microsoft Edge  | ✅     | 2.4.1           |
 
 ## 🛎️ Issues
 
-- Please let me know if you find any.
+- Check latest release notes. Also please let me know if you find other issues that are not mentioned there. 
 
 ## 📈 Future developments
 
-- Add more mappings to the application (This is something that will be done weekly)
+- Add more mappings to the application (This is something that will be done periodically)
 
 - Add other marketplaces and ranking sites
 
@@ -278,5 +277,90 @@ Manifest V3 from here on for Chrome, Brave, Edge, Opera.
 
 
 - Known issues:
-  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this
-    extension there.
+  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
+
+
+
+
+- 2.1 Release info:
+
+- Issues Fixed:
+
+  - Issue with Magiceden breaking due to a bug in the way ranks are stored in the browser storage.
+    The browser can still get slow if you view a lot of large collections, because all rankings are requested at once for Howrare.
+    When this happens you can delete all rankings from the pop up page.
+
+  - Quick Buy not working due to button class changes.
+
+- Changes:
+
+  - Made Quick Buy button disabled by default.
+
+* Known issues:
+  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
+  - Settings, Mappings and Rankings are lost once you close the browser.
+  - Solanart changed the UI so the current version is not working.
+
+
+
+- 2.2 Release info:
+
+- Issues Fixed:
+
+  - Issue with Magiceden breaking due to a bug in the way ranks are stored in the browser storage.
+    Please test it out and get back to me if you still have issues.
+  - Fixed issue with not showing howrare ranks and quick buy button when refreshing ME and Raydium page qucikly
+  - Made changes to support Solanart new UI.
+
+
+* Known issues:
+  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
+  - Solanart changed the UI so the quick buy button may fail to trigger sometimes. Will work on fixing it.
+  - Sometimes your mappings and settings still get lost
+  - Background service worker gets deactivated and only it is only reactivated on page load.
+    This causes the rankings to stop loading randomly, while you were browsing a collection.
+
+
+
+- 2.3 Release info:
+
+- Issues Fixed:
+
+  - Fixed issue with settings, mapping and threshilds reset. If you stil have issues please open a ticket in Discord and I can have a look.
+  - Further improved the performance, by storing all data only to the Background db.
+  - Made sure that background service worker gets activated when we need it.
+    This caused the rankings to stop loading randomly, while you were browsing a collection.
+    Still need to test this more to see if it breaks. If you get the issue that the rankings are not loaded please open a ticket.
+  - Made further changes to makee sure that rankings are always shown when you switch between views oon ME.  
+
+* Known issues:
+  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
+  - Solanart changed the UI so the quick buy button may fail to trigger sometimes. Will work on fixing it.
+
+
+- 2.4 Release info:
+
+- Small changes:
+  - Added welcome page so people can easily find the Discord link and Twitter page.
+  - Added ranks on NFT detail page for ME and Raydium, will implement this next for the other marketplaces too.
+    You can also see the ranks when you are listing your NFT so you can see it before listing.
+
+* Known issues:
+  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
+  - Solanart changed the UI so the quick buy button may fail to trigger sometimes. Will work on fixing it.
+  - Ranks not shown correctly for collections that don't have numbered NFTs.
+
+
+- 2.4.1 Release info:
+
+- Changes:
+  - Added support for Opensea. 
+  - Removed Exchange.art. 
+  
+- Issues fixed
+  - Solanart changed UI so the ranks are not shown.
+
+* Known issues:
+  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
+  - Solanart changed the UI so the quick buy button may fail to trigger sometimes. Will work on fixing it.
+  - Ranks not shown correctly for collections that don't have numbered NFTs .
