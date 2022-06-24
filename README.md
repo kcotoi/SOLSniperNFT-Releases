@@ -27,12 +27,10 @@ S◎LSniperNFT allows you to easily see the ranks of the NFTs directly on your f
 - Show ranks from howrare and moonrank on supported marketplaces.
   - Howrare own ranking system more info <a href="https://howrare.is/faq/#rarity_calculation">here </a>
   - Moonrank supports one type of ranking and this is calculated using statistical ranking system.
-- Quick Buy button for Magiceden, Raydium and Solanart Marketplaces.
-  ![QuickBuy png](images/QuickBuy.png)
+
 ## 📖 Extension Settings
 
 - The extension pop-up allows you to :
-  - Enable/Disable the Quick buy button.
   - Enable/Disable ranks to be shown.
   - Enter your own thresholds and colors for colouring ranks.
     ![Settings png](images/Settings.png)
@@ -65,8 +63,8 @@ Currently unpublished until a new version will be approved. Currently it is pend
 
 ## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera V2.0 (NEW)
 
-- Download the Release 2.0 zip file , unzip it, and load the unziped folder into your browser.
-- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/tag/release2.0
+- Download the Release 2.4.5 zip file , unzip it, and load the unziped folder into your browser.
+- <a href="https://github.com/kcotoi/SOLSniperNFT-Releases/releases/tag/release2.4.5
 ">Link here</a>
 
 ## 🏦 Supported Marketplaces
@@ -76,7 +74,6 @@ Currently unpublished until a new version will be approved. Currently it is pend
 | MagicEden.io       | ✅     |
 | Opensea.io         | ✅     |
 | Alpha.art          | ✅     |
-| Solanart.io        | ✅     |
 | DigitalEyes.market | ✅     |
 | Raydium Marketplace| ✅     |
 
@@ -91,10 +88,10 @@ Currently unpublished until a new version will be approved. Currently it is pend
 
 | Browser         | Status | Working Version |
 | --------------- | ------ | --------------  |
-| Chrome          | ✅     | 2.0             |
-| Mozilla Firefox | ✅     | 2.4.1           |
-| Brave           | ✅     | 2.4.1           |
-| Microsoft Edge  | ✅     | 2.4.1           |
+| Chrome          | ✅     | 2.4.5           |
+| Mozilla Firefox | ✅     | 2.0             |
+| Brave           | ✅     | 2.4.5           |
+| Microsoft Edge  | ✅     | 2.4.5           |
 
 ## 🛎️ Issues
 
