@@ -364,3 +364,63 @@ Manifest V3 from here on for Chrome, Brave, Edge, Opera.
   - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
   - Solanart changed the UI so the quick buy button may fail to trigger sometimes. Will work on fixing it.
   - Ranks not shown correctly for collections that don't have numbered NFTs .
+
+
+
+- 2.4.2 Release info:
+
+- Changes:
+
+  - Added Moonrank provisional rankings.
+  - Removed Exchange.art.
+
+- Issues fixed
+  - Fixed issue with showing Quick buy button on ME after new Ui update.
+  - Fixed issue with Solanart Quick buy button.
+
+* Known issues:
+  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
+  - Ranks not shown correctly for collections that don't have numbered NFTs .
+
+
+
+- 2.4.3 Release info:
+
+- Changes:
+
+  - Added ranking to wallet view on Magiceden and Raydium.
+  - Added ranking on activity page of Magiceden and Raydium.
+  - Switched to the new API from Howrare which doesn't contain attributes and description.
+
+- Issues fixed
+  - Ranks not shown correctly for collections that don't have numbered NFTs.
+
+* Known issues:
+  - Unfortunately Firefox does not support Manifest V3 yet so you will not be able to manually import this extension there.
+  
+
+
+- 2.4.4 Release info:
+
+- Changes:
+  - Disabled Quick buy button and will be removed in the final release.
+
+- Issues fixed
+  - Ranks not shown correctly for collections on magiceden.
+  - Ranks not shown on detail page.
+  - Switched to new howrare api.
+  
+* Known issues:
+  - Solanart disabled for the moment.
+
+
+
+- 2.4.5 Release info:
+
+- Issues fixed
+  - Ranks in wallet view not shown when you switch tabs on Magiceden and Raydium.
+  - Issues with thresholds which also caused infinite loop for loading ranks in the previous release.
+  - Implemented all fixes on Raydium too.
+
+* Known issues:
+  - Solanart disabled for the moment.
